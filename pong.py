@@ -1,7 +1,7 @@
 
 # up arrow key to move player paddle up
 # down arrow key to move player down
-# "r" key to restart
+# "r" key to restart (after death)
 
 import pygame
 from sys import exit
