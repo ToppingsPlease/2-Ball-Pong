@@ -1,4 +1,8 @@
 
+# up arrow key to move player paddle up
+# down arrow key to move player down
+# "r" key to restart
+
 import pygame
 from sys import exit
 from random import randint
